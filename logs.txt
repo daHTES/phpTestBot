@@ -1,35 +1,49 @@
-stdClass Object
+Telegram\Bot\Objects\Update Object
 (
-    [ok] => 1
-    [result] => Array
+    [items:protected] => Array
         (
-            [0] => stdClass Object
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 660632459
+            [message] => Telegram\Bot\Objects\Message Object
                 (
-                    [update_id] => 660632424
-                    [message] => stdClass Object
+                    [items:protected] => Array
                         (
-                            [message_id] => 31
-                            [from] => stdClass Object
+                            [message_id] => 104
+                            [from] => Telegram\Bot\Objects\User Object
                                 (
-                                    [id] => 73013568
-                                    [is_bot] => 
-                                    [first_name] => Deymos
-                                    [last_name] => Δεῖμος
-                                    [username] => DaHTES
-                                    [language_code] => ru
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [is_bot] => 
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [language_code] => ru
+                                        )
+
                                 )
 
-                            [chat] => stdClass Object
+                            [chat] => Telegram\Bot\Objects\Chat Object
                                 (
-                                    [id] => 73013568
-                                    [first_name] => Deymos
-                                    [last_name] => Δεῖμος
-                                    [username] => DaHTES
-                                    [type] => private
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [type] => private
+                                        )
+
                                 )
 
-                            [date] => 1686741182
-                            [text] => privet
+                            [date] => 1687244304
+                            [text] => hi
                         )
 
                 )
@@ -37,38 +51,141 @@ stdClass Object
         )
 
 )
-stdClass Object
+Telegram\Bot\Objects\Message Object
 (
-    [ok] => 1
-    [result] => Array
+    [items:protected] => Array
         (
-            [0] => stdClass Object
+            [message_id] => 105
+            [from] => Telegram\Bot\Objects\User Object
                 (
-                    [update_id] => 660632425
-                    [message] => stdClass Object
+                    [items:protected] => Array
                         (
-                            [message_id] => 33
-                            [from] => stdClass Object
+                            [id] => 5934105479
+                            [is_bot] => 1
+                            [first_name] => php_test_bot
+                            [username] => phpTest12062023Bot
+                        )
+
+                )
+
+            [chat] => Telegram\Bot\Objects\Chat Object
+                (
+                    [items:protected] => Array
+                        (
+                            [id] => 73013568
+                            [first_name] => Deymos
+                            [last_name] => Δεῖμος
+                            [username] => DaHTES
+                            [type] => private
+                        )
+
+                )
+
+            [date] => 1687244305
+            [text] => Привет, Deymos>! Вы написали: 
+hi
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 8
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 31
+                            [length] => 2
+                            [type] => italic
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 660632460
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 106
+                            [from] => Telegram\Bot\Objects\User Object
                                 (
-                                    [id] => 73013568
-                                    [is_bot] => 
-                                    [first_name] => Deymos
-                                    [last_name] => Δεῖμος
-                                    [username] => DaHTES
-                                    [language_code] => ru
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [is_bot] => 
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [language_code] => ru
+                                        )
+
                                 )
 
-                            [chat] => stdClass Object
+                            [chat] => Telegram\Bot\Objects\Chat Object
                                 (
-                                    [id] => 73013568
-                                    [first_name] => Deymos
-                                    [last_name] => Δεῖμος
-                                    [username] => DaHTES
-                                    [type] => private
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [type] => private
+                                        )
+
                                 )
 
-                            [date] => 1686747781
-                            [text] => Hi
+                            [date] => 1687252531
+                            [text] => photo
                         )
 
                 )
@@ -76,25 +193,26 @@ stdClass Object
         )
 
 )
-Array
+Telegram\Bot\Objects\Message Object
 (
-    [0] => stdClass Object
+    [items:protected] => Array
         (
-            [update_id] => 660632426
-            [message] => stdClass Object
+            [message_id] => 107
+            [from] => Telegram\Bot\Objects\User Object
                 (
-                    [message_id] => 35
-                    [from] => stdClass Object
+                    [items:protected] => Array
                         (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
+                            [id] => 5934105479
+                            [is_bot] => 1
+                            [first_name] => php_test_bot
+                            [username] => phpTest12062023Bot
                         )
 
-                    [chat] => stdClass Object
+                )
+
+            [chat] => Telegram\Bot\Objects\Chat Object
+                (
+                    [items:protected] => Array
                         (
                             [id] => 73013568
                             [first_name] => Deymos
@@ -103,32 +221,52 @@ Array
                             [type] => private
                         )
 
-                    [date] => 1686749742
-                    [text] => Hi
+                )
+
+            [date] => 1687252532
+            [text] => Привет, Deymos>! Вы написали: 
+photo
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 8
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 31
+                            [length] => 5
+                            [type] => italic
+                        )
+
                 )
 
         )
 
 )
-Array
+Telegram\Bot\Objects\Message Object
 (
-    [0] => stdClass Object
+    [items:protected] => Array
         (
-            [update_id] => 660632426
-            [message] => stdClass Object
+            [message_id] => 110
+            [from] => Telegram\Bot\Objects\User Object
                 (
-                    [message_id] => 35
-                    [from] => stdClass Object
+                    [items:protected] => Array
                         (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
+                            [id] => 5934105479
+                            [is_bot] => 1
+                            [first_name] => php_test_bot
+                            [username] => phpTest12062023Bot
                         )
 
-                    [chat] => stdClass Object
+                )
+
+            [chat] => Telegram\Bot\Objects\Chat Object
+                (
+                    [items:protected] => Array
                         (
                             [id] => 73013568
                             [first_name] => Deymos
@@ -137,63 +275,52 @@ Array
                             [type] => private
                         )
 
-                    [date] => 1686749742
-                    [text] => Hi
+                )
+
+            [date] => 1687252591
+            [text] => Привет, Deymos>! Вы написали: 
+hi
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 8
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 31
+                            [length] => 2
+                            [type] => italic
+                        )
+
                 )
 
         )
 
 )
-Array
+Telegram\Bot\Objects\Message Object
 (
-    [0] => stdClass Object
+    [items:protected] => Array
         (
-            [update_id] => 660632426
-            [message] => stdClass Object
+            [message_id] => 113
+            [from] => Telegram\Bot\Objects\User Object
                 (
-                    [message_id] => 35
-                    [from] => stdClass Object
+                    [items:protected] => Array
                         (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
+                            [id] => 5934105479
+                            [is_bot] => 1
+                            [first_name] => php_test_bot
+                            [username] => phpTest12062023Bot
                         )
 
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686749742
-                    [text] => Hi
                 )
 
-        )
-
-    [1] => stdClass Object
-        (
-            [update_id] => 660632427
-            [message] => stdClass Object
+            [chat] => Telegram\Bot\Objects\Chat Object
                 (
-                    [message_id] => 36
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
+                    [items:protected] => Array
                         (
                             [id] => 73013568
                             [first_name] => Deymos
@@ -202,66 +329,120 @@ Array
                             [type] => private
                         )
 
-                    [date] => 1686749949
-                    [text] => hil
+                )
+
+            [date] => 1687252619
+            [photo] => Telegram\Bot\Objects\PhotoSize Object
+                (
+                    [items:protected] => Array
+                        (
+                            [0] => Array
+                                (
+                                    [file_id] => AgACAgIAAxkDAANxZJFuiw52fxpaV8wKb_saTSM-uF8AAkHKMRuEvUhILPqiHj-UA7sBAAMCAANzAAMvBA
+                                    [file_unique_id] => AQADQcoxG4S9SEh4
+                                    [file_size] => 1416
+                                    [width] => 60
+                                    [height] => 90
+                                )
+
+                            [1] => Array
+                                (
+                                    [file_id] => AgACAgIAAxkDAANxZJFuiw52fxpaV8wKb_saTSM-uF8AAkHKMRuEvUhILPqiHj-UA7sBAAMCAANtAAMvBA
+                                    [file_unique_id] => AQADQcoxG4S9SEhy
+                                    [file_size] => 10615
+                                    [width] => 200
+                                    [height] => 300
+                                )
+
+                        )
+
+                )
+
+            [caption] => Photo
+        )
+
+)
+Telegram\Bot\Objects\Message Object
+(
+    [items:protected] => Array
+        (
+            [message_id] => 115
+            [from] => Telegram\Bot\Objects\User Object
+                (
+                    [items:protected] => Array
+                        (
+                            [id] => 5934105479
+                            [is_bot] => 1
+                            [first_name] => php_test_bot
+                            [username] => phpTest12062023Bot
+                        )
+
+                )
+
+            [chat] => Telegram\Bot\Objects\Chat Object
+                (
+                    [items:protected] => Array
+                        (
+                            [id] => 73013568
+                            [first_name] => Deymos
+                            [last_name] => Δεῖμος
+                            [username] => DaHTES
+                            [type] => private
+                        )
+
+                )
+
+            [date] => 1687253451
+            [text] => Привет, Deymos>! Вы написали: 
+/start
+            [entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 8
+                            [length] => 6
+                            [type] => bold
+                        )
+
+                    [1] => Array
+                        (
+                            [offset] => 31
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                    [2] => Array
+                        (
+                            [offset] => 31
+                            [length] => 6
+                            [type] => italic
+                        )
+
                 )
 
         )
 
 )
-Array
+Telegram\Bot\Objects\Message Object
 (
-    [0] => stdClass Object
+    [items:protected] => Array
         (
-            [update_id] => 660632428
-            [message] => stdClass Object
+            [message_id] => 117
+            [from] => Telegram\Bot\Objects\User Object
                 (
-                    [message_id] => 37
-                    [from] => stdClass Object
+                    [items:protected] => Array
                         (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
+                            [id] => 5934105479
+                            [is_bot] => 1
+                            [first_name] => php_test_bot
+                            [username] => phpTest12062023Bot
                         )
 
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686750006
-                    [text] => lo
                 )
 
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632428
-            [message] => stdClass Object
+            [chat] => Telegram\Bot\Objects\Chat Object
                 (
-                    [message_id] => 37
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
+                    [items:protected] => Array
                         (
                             [id] => 73013568
                             [first_name] => Deymos
@@ -270,747 +451,34 @@ Array
                             [type] => private
                         )
 
-                    [date] => 1686750006
-                    [text] => lo
                 )
 
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632429
-            [message] => stdClass Object
+            [date] => 1687253459
+            [text] => Привет, Deymos>! Вы написали: 
+/help
+            [entities] => Array
                 (
-                    [message_id] => 38
-                    [from] => stdClass Object
+                    [0] => Array
                         (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
+                            [offset] => 8
+                            [length] => 6
+                            [type] => bold
                         )
 
-                    [chat] => stdClass Object
+                    [1] => Array
                         (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
+                            [offset] => 31
+                            [length] => 5
+                            [type] => bot_command
                         )
 
-                    [date] => 1686750129
-                    [text] => hi
-                )
-
-        )
-
-    [1] => stdClass Object
-        (
-            [update_id] => 660632430
-            [message] => stdClass Object
-                (
-                    [message_id] => 39
-                    [from] => stdClass Object
+                    [2] => Array
                         (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
+                            [offset] => 31
+                            [length] => 5
+                            [type] => italic
                         )
 
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686750231
-                    [text] => lo
-                )
-
-        )
-
-    [2] => stdClass Object
-        (
-            [update_id] => 660632431
-            [message] => stdClass Object
-                (
-                    [message_id] => 40
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686751489
-                    [text] => 😂😂
-                )
-
-        )
-
-    [3] => stdClass Object
-        (
-            [update_id] => 660632432
-            [message] => stdClass Object
-                (
-                    [message_id] => 41
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686751568
-                    [text] => ⚡️⚡️
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632433
-            [message] => stdClass Object
-                (
-                    [message_id] => 46
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686754288
-                    [text] => lo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632434
-            [message] => stdClass Object
-                (
-                    [message_id] => 47
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686754302
-                    [text] => low
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632434
-            [message] => stdClass Object
-                (
-                    [message_id] => 47
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686754302
-                    [text] => low
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632435
-            [message] => stdClass Object
-                (
-                    [message_id] => 49
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686754945
-                    [text] => hi
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632436
-            [message] => stdClass Object
-                (
-                    [message_id] => 51
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686754974
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632437
-            [message] => stdClass Object
-                (
-                    [message_id] => 52
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755025
-                    [text] => lox
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632438
-            [message] => stdClass Object
-                (
-                    [message_id] => 54
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755030
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632439
-            [message] => stdClass Object
-                (
-                    [message_id] => 56
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755057
-                    [text] => poo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632440
-            [message] => stdClass Object
-                (
-                    [message_id] => 58
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755061
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632441
-            [message] => stdClass Object
-                (
-                    [message_id] => 60
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755950
-                    [text] => tets
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632442
-            [message] => stdClass Object
-                (
-                    [message_id] => 62
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755953
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632443
-            [message] => stdClass Object
-                (
-                    [message_id] => 64
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686755968
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632444
-            [message] => stdClass Object
-                (
-                    [message_id] => 66
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686756001
-                    [text] => pol
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632444
-            [message] => stdClass Object
-                (
-                    [message_id] => 66
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686756001
-                    [text] => pol
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632444
-            [message] => stdClass Object
-                (
-                    [message_id] => 66
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686756001
-                    [text] => pol
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632445
-            [message] => stdClass Object
-                (
-                    [message_id] => 70
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686756005
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632445
-            [message] => stdClass Object
-                (
-                    [message_id] => 70
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686756005
-                    [text] => photo
-                )
-
-        )
-
-)
-Array
-(
-    [0] => stdClass Object
-        (
-            [update_id] => 660632446
-            [message] => stdClass Object
-                (
-                    [message_id] => 73
-                    [from] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [is_bot] => 
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [language_code] => ru
-                        )
-
-                    [chat] => stdClass Object
-                        (
-                            [id] => 73013568
-                            [first_name] => Deymos
-                            [last_name] => Δεῖμος
-                            [username] => DaHTES
-                            [type] => private
-                        )
-
-                    [date] => 1686756110
-                    [text] => photo
                 )
 
         )
