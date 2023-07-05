@@ -1,0 +1,160 @@
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 561971010
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 1
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [is_bot] => 
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1688381831
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 561971011
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 2
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [is_bot] => 
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1688381833
+                            [text] => /start
+                            [entities] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [offset] => 0
+                                            [length] => 6
+                                            [type] => bot_command
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+Telegram\Bot\Objects\Update Object
+(
+    [items:protected] => Array
+        (
+            [update_id] => 561971012
+            [message] => Telegram\Bot\Objects\Message Object
+                (
+                    [items:protected] => Array
+                        (
+                            [message_id] => 3
+                            [from] => Telegram\Bot\Objects\User Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [is_bot] => 
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [language_code] => ru
+                                        )
+
+                                )
+
+                            [chat] => Telegram\Bot\Objects\Chat Object
+                                (
+                                    [items:protected] => Array
+                                        (
+                                            [id] => 73013568
+                                            [first_name] => Deymos
+                                            [last_name] => Δεῖμος
+                                            [username] => DaHTES
+                                            [type] => private
+                                        )
+
+                                )
+
+                            [date] => 1688381836
+                            [text] => hi
+                        )
+
+                )
+
+        )
+
+)
